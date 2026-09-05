@@ -1,0 +1,6 @@
+{
+  "name": "Vente",
+  "description": "Application pour gérer ses produits, enregistrer ses ventes et suivre ses revenus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
